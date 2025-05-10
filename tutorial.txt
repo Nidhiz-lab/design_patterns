@@ -1,0 +1,38 @@
+
+
+Design Pattern: Are common architectural approach in software development.
+
+1) Solid design principles:
+	1) Creational: 
+		1) Builder:
+		2) Factories:
+			1) Abstract Factory:
+			2) Factory Method:
+		3) Prototype:
+		4) Singleton:
+	2) Structural:
+		1) Adapter:
+		2) Bridge:
+		3) Composite:
+		4) Decorator:
+		5) Facade:
+		6) Flyweight:
+		7) Proxy:
+	3) Behavioral:
+		1) Chain of responsibility:
+		2) Command:
+		3) Interpreter:
+		4) Iterator:
+		5) Mediator:
+		6) Memento:
+		7) Observer:
+		8) State:
+		9) Strategy:
+	   10) Template Method:
+	   11) Visitor:
+
+Example:
+
+1) Single responsibility principle:
+	This principle suggests that a class should have a single, well-defined purpose, making code more modular, maintainable and reusable.
+	One more important useful nes of this principle is "seperation of concern"
