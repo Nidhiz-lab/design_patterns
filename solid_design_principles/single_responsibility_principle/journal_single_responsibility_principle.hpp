@@ -10,5 +10,4 @@ public:
 	journal(const string &title) : title(title) {}
 
 	void add_entry(const string& entry);
-	void save(const string& filename);
 };
