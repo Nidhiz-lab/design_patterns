@@ -36,3 +36,8 @@ Example:
 1) Single responsibility principle:
 	This principle suggests that a class should have a single, well-defined purpose, making code more modular, maintainable and reusable.
 	One more important useful nes of this principle is "seperation of concern"
+2) Open Close principle:
+	The system is open for extension and close for modification. The goal is to avoid to jump into the code that you have alredy been written. But we could always extend the code by inheriting
+	the existing code and create new objects.
+	
+	
