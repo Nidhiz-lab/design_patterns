@@ -40,4 +40,10 @@ Example:
 	The system is open for extension and close for modification. The goal is to avoid to jump into the code that you have alredy been written. But we could always extend the code by inheriting
 	the existing code and create new objects.
 	
+3) Liskov substitutio principle:
+	The goal is to specify the sub types should be immedietly able to substitutable for their base types
+	A function which takes a base class, any derived class should be able to be substituted to the same function without any issue.
+4) Interface segregation principle:
+	To avoid stuffing too much into a single interface, instead breakup the interface into seperate interfaces
+	
 	
