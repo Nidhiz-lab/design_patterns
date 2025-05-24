@@ -46,4 +46,6 @@ Example:
 4) Interface segregation principle:
 	To avoid stuffing too much into a single interface, instead breakup the interface into seperate interfaces
 	
+5) Dependency inversion principle:
+
 	
